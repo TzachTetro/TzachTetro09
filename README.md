@@ -13,10 +13,8 @@ My journey in Software engineering has led me to develop a passion for cybersecu
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://www.linkedin.com/in/tzachtetro/details/projects/1709114684014/single-media-viewer/?profileId=ACoAADd9G3UBXjm07RvzRXXvGK5tEFtaxVZFT_Q">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Microsoft Windows Defender and Firewall         |  <a href="https://www.linkedin.com/in/tzachtetro/details/projects/1709114090274/single-media-viewer/?profileId=ACoAADd9G3UBXjm07RvzRXXvGK5tEFtaxVZFT_Q">Microsoft anti-virus project</a>|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
