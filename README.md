@@ -1,23 +1,19 @@
 # Hello, I'm Tzach!
 <a href="https://www.linkedin.com/in/tzachtetro"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Software engineering student in the open university profound interest in technology and a dedication to solving complex problems.
+I am a Software engineering student in the open university, interest in technology and a dedication to solving complex problems and most importently have apassion for Cybersecurity.
 
 ## Objective
-My journey in Software engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Software engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join to any role that in the cyber security field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://www.linkedin.com/in/tzachtetro/details/projects/1709114684014/single-media-viewer/?profileId=ACoAADd9G3UBXjm07RvzRXXvGK5tEFtaxVZFT_Q">Detection Lab</a>|
-| Microsoft Windows Defender and Firewall         |  <a href="https://www.linkedin.com/in/tzachtetro/details/projects/1709114090274/single-media-viewer/?profileId=ACoAADd9G3UBXjm07RvzRXXvGK5tEFtaxVZFT_Q">Microsoft anti-virus project</a>|
+| Microsoft Windows Defender and Firewall         |  <a href="https://www.linkedin.com/in/tzachtetro/details/projects/1709114090274/single-media-viewer/?profileId=ACoAADd9G3UBXjm07RvzRXXvGK5tEFtaxVZFT_Q">IBM anti-virus project</a>|
 
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### Familier with the next terms in cyber security field
 
 ### Network
 <div>
@@ -47,6 +43,3 @@ My journey in Software engineering has led me to develop a passion for cybersecu
 <img src="https://img.shields.io/badge/-Coursera-000080?&style=for-the-badge&logo=Coursera&logoColor=white" />
 </div>
 
-## Projects
-- Wireshark for Basic Network Security Analysis
-- Microsoft Windows Defender and Firewall
