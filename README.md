@@ -10,10 +10,10 @@ My journey in Software engineering has led me to develop a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Traffic Monitoring and Attack Detection | <a href="https://www.linkedin.com/in/tzachtetro/details/projects/1709114684014/single-media-viewer/?profileId=ACoAADd9G3UBXjm07RvzRXXvGK5tEFtaxVZFT_Q">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://www.linkedin.com/in/tzachtetro/details/projects/1709114684014/single-media-viewer/?profileId=ACoAADd9G3UBXjm07RvzRXXvGK5tEFtaxVZFT_Q">Wireshark project</a>|
 | Microsoft Windows Defender and Firewall         |  <a href="https://www.linkedin.com/in/tzachtetro/details/projects/1709114090274/single-media-viewer/?profileId=ACoAADd9G3UBXjm07RvzRXXvGK5tEFtaxVZFT_Q">IBM anti-virus project</a>|
 
-### Familier with the next terms in cyber security field
+### Familier with the next terms in cyber security field:
 
 ### Network
 <div>
