@@ -1,7 +1,7 @@
 # Hello, I'm Tzach!
 <a href="https://www.linkedin.com/in/tzachtetro"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Software engineering student in the open university, interest in technology and a dedication to solving complex problems and most importently have apassion for Cybersecurity.
+I am a Software engineering student in the open university,and studing cybersecurity via online, interest in technology and a dedication to solving complex problems and most importently have apassion for Cybersecurity.
 
 ## Objective
 My journey in Software engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join to any role that in the cyber security field.
