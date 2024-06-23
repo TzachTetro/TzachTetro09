@@ -5,15 +5,15 @@ I am a Software engineering student in the open university, interest in technolo
 
 ## Objective
 My journey in Software engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join to any role that in the cyber security field.
+currently work in aprivet facilitey level-A clasified as ahead of shift position.
+## Projects
 
-## Skills
-
-| Skill                                         | Associated Project         |
+| projects                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Traffic Monitoring and Attack Detection | <a href="https://www.linkedin.com/in/tzachtetro/details/projects/1709114684014/single-media-viewer/?profileId=ACoAADd9G3UBXjm07RvzRXXvGK5tEFtaxVZFT_Q">Wireshark project</a>|
 | Microsoft Windows Defender and Firewall         |  <a href="https://www.linkedin.com/in/tzachtetro/details/projects/1709114090274/single-media-viewer/?profileId=ACoAADd9G3UBXjm07RvzRXXvGK5tEFtaxVZFT_Q">IBM anti-virus project</a>|
 
-### Familier with the next terms in cyber security field:
+### Skills in the field:
 
 ### Network
 <div>
