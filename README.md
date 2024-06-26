@@ -1,45 +1,33 @@
-# Hello, I'm Tzach!
-<a href="https://www.linkedin.com/in/tzachtetro"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1>Hi, I'm Tzach! <br/><a a></h1>
 
-I am a Software engineering student in the open university,and studing cybersecurity via online, interest in technology and a dedication to solving complex problems and most importently have apassion for Cybersecurity.
+<h2>👨‍💻 CyberSecurity Projects:</h2>
 
-## Objective
-My journey in Software engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join to any role that in the cyber security field.
-currently work in aprivet facilitey level-A clasified as ahead of shift position.
-## Projects
+  - [Vulnerability Scanner in python](https://github.com/TzachTetro/Vulnerability-Scanner.git)
 
-| projects                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Network Traffic Monitoring and Attack Detection | <a href="https://www.linkedin.com/in/tzachtetro/details/projects/1709114684014/single-media-viewer/?profileId=ACoAADd9G3UBXjm07RvzRXXvGK5tEFtaxVZFT_Q">Wireshark project</a>|
-| Microsoft Windows Defender and Firewall         |  <a href="https://www.linkedin.com/in/tzachtetro/details/projects/1709114090274/single-media-viewer/?profileId=ACoAADd9G3UBXjm07RvzRXXvGK5tEFtaxVZFT_Q">IBM anti-virus project</a>|
 
-### Skills in the field:
+<h2> 🤳 Connect with me:</h2>
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    
-</div>
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-SSCP-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-4D4D4D?&style=for-the-badge&logo=Amazon&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco-00A4EF?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Qualys-EF3B2D?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Coursera-000080?&style=for-the-badge&logo=Coursera&logoColor=white" />
-</div>
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
