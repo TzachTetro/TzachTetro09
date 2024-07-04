@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tzach! <br/><a a></h1>
+<h1>Hi, I'm Tzach! 🎗 <br/><a a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
