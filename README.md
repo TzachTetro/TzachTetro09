@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+  - [Cryptograthpy Cipher ](https://github.com/TzachTetro/Cryptography-Cipher.git)
   - [Vulnerability Scanner in python](https://github.com/TzachTetro/Vulnerability-Scanner.git)
   - [Wireshark for Basic Network Security Analysis](https://github.com/TzachTetro/WireShark-Project.git)
-
+    
 ## 📄Certifications
 <div>
 <img src="https://img.shields.io/badge/-SSCP-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
