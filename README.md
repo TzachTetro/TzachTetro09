@@ -8,10 +8,29 @@ I am a Software engineering student in the open university,and studing cybersecu
   - [Wireshark for Basic Network Security Analysis](https://github.com/TzachTetro/WireShark-Project.git)
 
 
-<h3>💻 Python Projects</h3>
+<h3>💻 Python Projects:</h3>
 
   - [Game Compiler Manager](https://github.com/TzachTetro/Game-Compiler-Manager.git)
   
+### Skills in the field:
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />    
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+
 ## 📄Certifications
 <div>
 <img src="https://img.shields.io/badge/-SSCP-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
