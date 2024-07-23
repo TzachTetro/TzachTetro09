@@ -14,7 +14,7 @@ I am a Software engineering student in the open university,and studing cybersecu
 
 <h2>📄 Personal Website:</h2>
 
- - [WebPage](https://github.com/TzachTetro/WebPage)
+ - [WebPage](https://bit.ly/Tzach-Web)
   
 <h2>📚 Skills in the field:</h2>
 
