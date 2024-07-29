@@ -6,9 +6,9 @@ I am a Software engineering student in the open university,and studing cybersecu
   - [Cryptograthpy Cipher ](https://github.com/TzachTetro/Cryptography-Cipher.git)
   - [Vulnerability Scanner in python](https://github.com/TzachTetro/Vulnerability-Scanner.git)
   - [Wireshark for Basic Network Security Analysis](https://github.com/TzachTetro/WireShark-Project.git)
-    
-
-    <h2>☁️ Cloud Projects:</h2>
+  
+  
+<h2>☁️ Cloud Projects:</h2>
     
   - [Googel cloud Project](https://github.com/TzachTetro/Change-firewall-rules-using-Terraform-and-Cloud-Shell.git)
 
