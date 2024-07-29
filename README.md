@@ -10,7 +10,7 @@ I am a Software engineering student in the open university,and studing cybersecu
 
     <h2>Cloud Projects:</h2>
     
-  - [Googel Clude Prject](https://github.com/TzachTetro/Change-firewall-rules-using-Terraform-and-Cloud-Shell.git)
+  - [Googel Clude Project](https://github.com/TzachTetro/Change-firewall-rules-using-Terraform-and-Cloud-Shell.git)
 
 
 
