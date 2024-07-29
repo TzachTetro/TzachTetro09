@@ -8,9 +8,9 @@ I am a Software engineering student in the open university,and studing cybersecu
   - [Wireshark for Basic Network Security Analysis](https://github.com/TzachTetro/WireShark-Project.git)
     
 
-    <h2>Cloud Projects:</h2>
+    <h2>☁️ Cloud Projects:</h2>
     
-  - [Googel Clude Project](https://github.com/TzachTetro/Change-firewall-rules-using-Terraform-and-Cloud-Shell.git)
+  - [Googel cloud Project](https://github.com/TzachTetro/Change-firewall-rules-using-Terraform-and-Cloud-Shell.git)
 
 
 
