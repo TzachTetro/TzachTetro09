@@ -32,7 +32,7 @@ I am a Software engineering student in the open university,and studing cybersecu
 </div>
 
 ### Cloud:
-<img src="https://img.shields.io/badge/-AWS-4D4D4D?&style=for-the-badge&logo=Amazon&logoColor=white"  /> <img src="https://img.shields.io/badge/- Microsoft Azure-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-4D4D4D?&style=for-the-badge&logo=Amazon&logoColor=white"  /> <img src="https://img.shields.io/badge/-Googel-000075?&style=for-the-badge&logoColor=white" />
 
 
 
