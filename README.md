@@ -1,6 +1,5 @@
 <h1>Hi, I'm Tzach! 🎗 <br/><a a></h1>
-I am a Software engineering student in the open university,and studing cybersecurity online, interest in technology and have a dedication to solving complex problems and most importently have apassion for Cybersecurity.
-  
+I am a Software engineering student in the open university,and studing cybersecurity online, interest in technology and have a dedication to solving complex problems and most importently have apassion for Cybersecurity,currently working as a system implementor in the high-tech company of voicenter.
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
   - [Cryptograthpy Cipher ](https://github.com/TzachTetro/Cryptography-Cipher.git)
